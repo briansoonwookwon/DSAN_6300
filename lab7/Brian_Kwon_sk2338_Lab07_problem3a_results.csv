@@ -1,0 +1,77 @@
+year,dept_name,num_credits
+2012,Accounting,1168
+2013,Accounting,1839
+2014,Accounting,810
+2017,Accounting,2093
+2018,Accounting,1088
+2010,Astronomy,1136
+2012,Astronomy,921
+2017,Astronomy,1168
+2019,Astronomy,981
+2010,Athletics,927
+2013,Athletics,1180
+2014,Athletics,1084
+2018,Athletics,1188
+2019,Athletics,804
+2010,Biology,792
+2011,Biology,975
+2012,Biology,936
+2012,"Civil Eng.",843
+2015,"Civil Eng.",1180
+2016,"Civil Eng.",849
+2017,"Civil Eng.",1260
+2019,"Civil Eng.",921
+2012,"Comp. Sci.",1328
+2014,"Comp. Sci.",2500
+2017,"Comp. Sci.",909
+2011,Cybernetics,894
+2012,Cybernetics,1200
+2013,Cybernetics,3237
+2015,Cybernetics,897
+2017,Cybernetics,852
+2018,Cybernetics,2637
+2019,Cybernetics,933
+2012,"Elec. Eng.",840
+2016,"Elec. Eng.",1128
+2017,"Elec. Eng.",2104
+2013,English,1184
+2015,English,930
+2011,Finance,945
+2012,Finance,912
+2013,Finance,1256
+2014,Finance,861
+2015,Finance,1352
+2016,Finance,2183
+2018,Finance,2620
+2019,Finance,1228
+2010,Geology,1758
+2013,Geology,855
+2016,Geology,846
+2018,Geology,1272
+2019,Geology,912
+2010,History,936
+2011,History,1716
+2016,History,2146
+2012,Languages,1352
+2010,Marketing,810
+2012,Marketing,1084
+2014,Marketing,936
+2016,Marketing,981
+2019,Marketing,885
+2010,Math,3177
+2012,Math,1782
+2017,Math,882
+2010,Physics,1192
+2012,Physics,1072
+2016,Physics,3712
+2017,Physics,855
+2015,"Pol. Sci.",2416
+2013,Psychology,2484
+2014,Psychology,894
+2015,Psychology,2030
+2016,Psychology,2028
+2017,Psychology,2071
+2018,Psychology,1881
+2019,Psychology,1120
+2013,Statistics,918
+2019,Statistics,1200
